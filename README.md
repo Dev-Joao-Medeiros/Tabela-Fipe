@@ -26,7 +26,7 @@ Este é um projeto desenvolvido em Java com Spring Boot que permite consultar o 
 ### 2. Execução
 ```
 # Clone o repositório
-git clone https://github.com/Medeiros20/Tabela-Fipe.git
+git clone https://github.com/Dev-Joao-Medeiros/Tabela-Fipe.git
 
 # Acesse a pasta do projeto
 cd Tabela-Fipe
